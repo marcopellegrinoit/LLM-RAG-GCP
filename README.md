@@ -1,4 +1,4 @@
-# *RAG LLM with Google Cloud Platform (BigQuery, VertexAI & Gemini)*
+#RAG LLM with Google Cloud Platform (BigQuery, VertexAI & Gemini)
 Author: Marco Pellegrino<br>
 Year: 2024
 
