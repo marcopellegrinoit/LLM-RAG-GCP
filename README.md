@@ -3,7 +3,7 @@ Author: Marco Pellegrino<br>
 Year: 2024
 
 ## Overview
-This notebook demonstrates a RAG (Retrieval-augmented Generation) LLM (Large Language Model) system for processing documents stored in Google Cloud Storage (GCS), generating embeddings, and storing them in BigQuery Vector Store for efficient similarity search. The system then uses Langchain for question answering (QA) based on the embedded document. Both a notebook and a Streamlit app are provided.
+This project demonstrates a RAG (Retrieval-augmented Generation) LLM (Large Language Model) system for processing documents stored in Google Cloud Storage (GCS), generating embeddings, and storing them in BigQuery Vector Store for efficient similarity search. The system then uses Langchain for question answering (QA) based on the embedded document. Both a notebook and a Streamlit app are provided.
   
 ### Environment Configuration
 Ensure your environment variables and configurations (`config.py`) are correctly set up for:
