@@ -1,0 +1,5 @@
+langchain-google-vertexai
+langchain-google-community
+pypdf
+google-cloud
+vertexai
